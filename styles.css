@@ -118,7 +118,7 @@ background-color: #FF945F;
     margin-left: 10px;
 }
 #bot {
-    height: 250px;
+    height: 75px;
 }
 .note{
     background-image: url(images/bg.jpg);
@@ -134,4 +134,11 @@ input {
 }
 #weekday:hover{
     color: #aaa;
+}
+.shownote {
+    width: 40%;
+    margin-left: 30%;
+    text-align: center;
+    height: 70px;
+    background-color: #ccc;
 }
